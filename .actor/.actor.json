@@ -1,7 +1,0 @@
-{
-    "actorSpecification": 1,
-    "name": "linkedin-connection-request-sender",
-    "title": "LinkedIn Connection Request Sender",
-    "version": "1.0",
-    "dockerfile": "./Dockerfile"
-}
